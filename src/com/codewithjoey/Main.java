@@ -9,7 +9,7 @@ public class Main {
         // number formatter
         //String result = NumberFormat.getPercentInstance().format(0.2);
 
-        //Scanner object
+        //Scanner object for use
         Scanner scanner = new Scanner(System.in);
         System.out.print("What is your name: ");
         String name = scanner.nextLine();
